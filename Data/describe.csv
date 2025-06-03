@@ -1,0 +1,19 @@
+﻿Thuộc tính,Loại,Mô tả
+City,Văn bản,Thành phố nơi thu thập dữ liệu chất lượng không khí
+distric,Văn bản,Quận hoặc khu vực cụ thể trong thành phố
+DateTime,Ngày/Giờ,Thời gian thu thập dữ liệu
+PM2.5,Số thực,Nồng độ bụi mịn có đường kính < 2.5µm (microgam/m³)
+PM10,Số thực,Nồng độ bụi có đường kính < 10µm (microgam/m³)
+NO2,Số thực,Nồng độ Nitrogen Dioxide (NO₂)
+NH3,Số thực,Nồng độ Ammonia (NH₃)
+SO2,Số thực,Nồng độ Sulfur Dioxide (SO₂)
+CO,Số thực,Nồng độ Carbon Monoxide (CO)
+OZONE,Số thực,Nồng độ Ozone (O₃)
+AQI,Số nguyên,Chỉ số chất lượng không khí (Air Quality Index)
+Predominan_Parameter,Văn bản,Chất gây ô nhiễm chính ảnh hưởng đến AQI
+EMP,Số thực,Nhiệt độ môi trường (°C)
+PRES,Số thực,Áp suất khí quyển (hPa)
+DEWP,Số thực,Nhiệt độ điểm sương (°C)
+RAIN,Số thực,Lượng mưa (mm)
+wd,Văn bản,"Hướng gió (ví dụ: N, NE, E...)"
+WSPM,Số thực,Tốc độ gió (m/s)
